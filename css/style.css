@@ -13,3 +13,16 @@ body{
  	text-align: center;
 
  }
+
+ .jumbotron{
+ 	text-align: center;
+ 	/*background-color: transparent;*/
+ }
+ .jumbotron .btn{
+ 	padding: 15px 25px;
+ 	font-size: 22px;
+ }
+
+.centro{
+	text-align: center;
+}
